@@ -30,7 +30,7 @@ $ python main.py
 
 `<ol><li>feature 1</li></ol>`
 
-##Stacks&Skills
+## Stacks&Skills
 
 - java
 - spring
